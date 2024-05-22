@@ -1,4 +1,4 @@
-<Ore wa **Luffy!!**
+Ore wa **Luffy, the King of pirates!!**
 
 <!--
 **lpbahia/lpbahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
